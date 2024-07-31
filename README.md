@@ -4,7 +4,7 @@
 
 ## Um clone de uma antiga página home do Spotify
 ### Projeto desenvolvido para fixação de conteúdos aprendidos em aula.
-### A escolha de usar o BootStrap nesse projeto foi feita pela questão do site do Spotify usar esse framework para padronizar os seus componentes e atributos.
+### A escolha de usar o BootStrap nesse projeto foi feita pela questão do site do Spotify usar esse framework para padronizar os seus componentes, atributos e trabalhar sua responsividade.
 
 <p>
     <img src="img/to-README/1.png">
